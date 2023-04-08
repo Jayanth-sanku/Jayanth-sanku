@@ -7,6 +7,3 @@
 - 📫 How to reach me: [Twitter - @jayanth_sanku](https://twitter.com/jayanth_sanku)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Hidden Humor😁
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Jayanth-sanku&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth-sanku&langs_count=5&theme=tokyonight)]()
