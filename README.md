@@ -6,9 +6,10 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects**  
 - 🌱 I’m currently learning **Deep Learning and Natural Language Processing**  
-👯 I’m looking for an opportunity to work on and contribute to real-time Data Science and AI projects, and I am actively seeking a role in this field.
+- 👯 I’m looking for an opportunity to work on and contribute to real-time Data Science and AI projects
+- 💼 I am actively seeking a role in this field. 
 - 📫 How to reach me: **jaythedataguy@gmail.com**  
-- ⚡ Fun fact: **I love uncovering hidden insights from data!**  
+- ⚡ Fun fact: **Data science reminds us that in the chaos of life, there’s always a hidden structure waiting to be discovered.**  
 
 <h3 align="left">Languages and Tools:</h3>  
 <p align="left">  
