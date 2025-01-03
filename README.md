@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on **Machine Learning Projects**  
 - 🌱 I’m currently learning **Deep Learning and Natural Language Processing**  
-- 👯 I’m looking to collaborate on **Data Science and AI projects**  
-- 📫 How to reach me: **jayanthsanku324@gmail.com**  
+👯 I’m looking for an opportunity to work on and contribute to real-time Data Science and AI projects, and I am actively seeking a role in this field.
+- 📫 How to reach me: **jaythedataguy@gmail.com**  
 - ⚡ Fun fact: **I love uncovering hidden insights from data!**  
 
 <h3 align="left">Languages and Tools:</h3>  
